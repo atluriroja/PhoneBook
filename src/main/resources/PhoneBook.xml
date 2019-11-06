@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PhoneBook>
+<Contact>
+  <Name>Roja</Name>
+  <ContactType>
+	<Type>Mobile</Type>
+	<Value>9849743757</Value>
+  </ContactType>
+  <ContactType>
+	<Type>Home</Type>
+	<Value>0732437194</Value>
+  </ContactType>
+</Contact>
+<Contact>
+  <Name>Anne</Name>
+  <ContactType>
+	<Type>Home</Type>
+	<Value>0732456787</Value>
+  </ContactType>
+</Contact>
+</PhoneBook>
